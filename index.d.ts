@@ -1,0 +1,12 @@
+export declare function FahrenheitToCelsius(F: number): number;
+export declare function CelsiusToFahrenheit(C: number): number;
+export declare function CelsiusToKelvin(C: number): number;
+export declare function KelvinToCelsius(K: number): number;
+export declare function KelvinToFahrenheit(K: number): number;
+export declare function FahrenheitToKelvin(F: number): number;
+export declare function RankineToKelvin(R: number): number;
+export declare function KelvinToRankine(K: number): number;
+export declare function RankineToCelsius(R: number): number;
+export declare function CelsiusToRankine(C: number): number;
+export declare function RankineToFahrenheit(R: number): number;
+export declare function FahrenheitToRankine(F: number): number;
