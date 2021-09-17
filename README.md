@@ -5,7 +5,7 @@
 <p align="center">
     <a href="https://www.npmjs.com/package/greatefue-temperature"><img src="https://img.shields.io/npm/v/greatefue-temperature.svg?style=flat-square" alt="NPM Version" /></a>
     <a href="https://www.npmjs.com/package/greatefue-temperature"><img src="https://img.shields.io/npm/dm/greatefue-temperature.svg?style=flat-square" alt="NPM Downloads" /></a>
-    <img src="https://github.com/greatefue/greatefue-temperature/workflows/Greetings/badge.svg" alt="CI" />
+    <img src="https://github.com/greatefue/greatefue-temperature/workflows/CI/badge.svg" alt="CI" />
     <a href="https://github.com/greatefue/greatefue-temperature/tree/1.0.4"></a>
     <a href="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgreatefue%2Fgreatefue-temperature.svg?type=shield"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgreatefue%2Fgreatefue-temperature.svg?type=shield"/></a>
 </p>
