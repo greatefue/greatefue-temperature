@@ -6,6 +6,7 @@
     <a href="https://www.npmjs.com/package/greatefue-temperature"><img src="https://img.shields.io/npm/v/greatefue-temperature.svg?style=flat-square" alt="NPM Version" /></a>
     <a href="https://www.npmjs.com/package/greatefue-temperature"><img src="https://img.shields.io/npm/dm/greatefue-temperature.svg?style=flat-square" alt="NPM Downloads" /></a>
     <img src="https://github.com/greatefue/greatefue-temperature/workflows/CI/badge.svg" alt="CI" />
+    [![Greetings](https://github.com/greatefue/greatefue-temperature/actions/workflows/greetings.yml/badge.svg)](https://github.com/greatefue/greatefue-temperature/actions/workflows/greetings.yml)
     <a href="https://github.com/greatefue/greatefue-temperature/tree/1.0.4"></a>
     <a href="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgreatefue%2Fgreatefue-temperature.svg?type=shield"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgreatefue%2Fgreatefue-temperature.svg?type=shield"/></a>
 </p>
